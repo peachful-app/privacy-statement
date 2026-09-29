@@ -9,7 +9,7 @@ We believe that your personal journal entries belong strictly to you. “Peachfu
 ### 1. Data Collection and Usage
 - No Personal Data Collection: We do not collect any personal information, such as your name, email address, IP address, device identifier, or location data.
 - Journal Content & Inputs: All journal entries and prompts within the App remain stored exclusively on your local device using built-in iOS local storage mechanisms.
-No Network Transmission: Your journal entries/personal inputs are never sent to external servers, cloud databases, or third parties.
+- No Network Transmission: Your journal entries/personal inputs are never sent to external servers, cloud databases, or third parties.
 
 ### 2. Third-Party Services & Analytics
 - No Third-Party Analytics: We do not use third-party analytics frameworks, tracking pixels, or performance monitoring SDKs.
