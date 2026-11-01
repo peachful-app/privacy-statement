@@ -1,7 +1,8 @@
 # privacy-statement
 Peachful Privacy Policy 
 Last Updated: September 28, 2026
-### © 2026 Tara Nair
+
+© 2026 Tara Nair
 
 This Privacy Policy explains how we handle information for the mobile application “Peachful” for iOS.
 
